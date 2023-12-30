@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // Import your CSS file
+import './App.css'; 
 import logo from './logo.png';
 import yourPicture from './your-picture.jpg';
 import c1 from './course1.jpg'; 
@@ -17,7 +17,7 @@ function App() {
     { image: c4, name: 'Business Intelligence', price: '350 DT/ Month' },
     { image: c5, name: 'Artificial Intelligence', price: '350 DT/ Month' },
     { image: c6, name: 'Devops', price: '350 DT/ Month' }
-    // Add more courses as needed
+   
   ];
   return (
     <div className="landing-page">
