@@ -10,18 +10,18 @@ header {
 }
 
 .logo {
-  width: 100px; /* Adjust the size of your logo */
+  width: 100px; 
   height: auto;
 }
 
 .picture-section {
   position: relative;
-  margin-top: 20px; /* Adjust the top margin to create space under the logo */
+  margin-top: 20px; 
 }
 
 .your-picture {
-  width: 100%; /* Adjust the width of your picture */
-  height: auto; /* Maintain aspect ratio */
+  width: 100%; 
+  height: auto; 
 }
 
 .text-overlay {
@@ -30,7 +30,7 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  background-color: rgba(255, 255, 255, 0.859); /* Transparent white */
+  background-color: rgba(255, 255, 255, 0.859); 
   padding: 100px;
   padding-top: 50px;
   padding-bottom: 80px;
@@ -127,16 +127,16 @@ header {
 
 .input-container {
   margin-bottom: 20px;
-  text-align: center; /* Center the text within the input container */
+  text-align: center;
   width: 450px;
-  margin: 0 auto; /* Center the container itself */
+  margin: 0 auto; 
   
 }
 
 .input-container label {
   display: block;
   margin-bottom: 5px;
-  text-align: left; /* Align labels to the left */
+  text-align: left; 
   font-size: 0.8rem;
 }
 
@@ -149,7 +149,7 @@ header {
   border: 1px solid #f5bf7d;
   resize: none;
   display: block;
-  margin: 5px auto; /* Center inputs horizontally with some vertical spacing */
+  margin: 5px auto; 
   background-color: #fce8cf;
   font-size: 0.7rem;
 }
